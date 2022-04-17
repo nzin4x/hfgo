@@ -2,9 +2,9 @@ package main
 
 import (
 	"fmt"
-	"funca/thing"
+	"github.com/nzin4x/hfgo/pkgex"
 )
 
 func main() {
-	fmt.Println(thing.Hello())
+	fmt.Println(pkgex.Hello())
 }
