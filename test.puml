@@ -1,0 +1,4 @@
+@startuml
+a -> b : helloworld
+b -> c : it's working.
+@enduml
